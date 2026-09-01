@@ -1,1 +1,1 @@
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)   
+[![GitHub Stats](https://vercel.app)](https://github.com)   
